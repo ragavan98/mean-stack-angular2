@@ -24,6 +24,6 @@
   "homepage": "https://github.com/ragavan98/mean-stack-angular2#readme",
   "dependencies": {
     "express": "^4.16.3",
-    "mongoose": "^5.2.6"
+    "mongoose": "^5.7.5"
   }
 }
